@@ -1,3 +1,9 @@
+-- ==========================================
+-- SQL ASSIGNMENT (ECommerceDB)
+-- Assignment Code: DA-AG-014
+-- Introduction to SQL and Advanced Functions | Assignment | Theritical
+-- ==========================================
+
 **Theoritical Questions:**
 
 Question 1:
